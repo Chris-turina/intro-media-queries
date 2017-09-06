@@ -35,8 +35,10 @@ body {
 }
 
 .good {
-  color: blue;
-  font-style: italic;
+  border: 2px solid blue;
+  padding: 4px;
+  margin: 12px;
+  background-color: beige;
 }
 
 .bad {
@@ -51,7 +53,12 @@ body {
 }
 
 .column {
-  width: 400px;
+  width: 300px;
   float: right;
   text-align: center;
+  border: 5px solid red;
+  padding: 4px;
+  margin: 12px;
+  background-color: beige;
+  margin-left: 75px;
 }
