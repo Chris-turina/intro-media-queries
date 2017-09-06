@@ -1,0 +1,25 @@
+.fancy {
+  color: red;
+  font-style: italic;
+}
+
+h1 {
+  font-family: cursive;
+  text-align: center;
+}
+
+h2 {
+  font-family: cursive;
+  text-align: center;
+}
+
+body {
+  background-color: pink;
+  text-align: center;
+}
+
+.best {
+  font-weight: 900;
+  font-size: 20px;
+  font-family: fantasy;
+}
