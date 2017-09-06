@@ -33,3 +33,25 @@ body {
   font-style: italic;
   text-align: center;
 }
+
+.good {
+  color: blue;
+  font-style: italic;
+}
+
+.bad {
+  color: red;
+  font-style: oblique;
+}
+
+.sidebar {
+  width: 30%;
+  float: left;
+  background-color: red;
+}
+
+.column {
+  width: 400px;
+  float: right;
+  text-align: center;
+}
